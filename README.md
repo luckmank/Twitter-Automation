@@ -1,0 +1,2 @@
+This is an automation script to automate tweeting top 3 trending hashtags from trending tab on twitter. I have used pupeteer and minimint library to create this cool project.
+In practical world such a script can be used by those who want to set a trend on twitter, they can setup multiple accounts in config.json file and then by automating the whole process in a loop can create multiple tweets all at the single time from multiple accounts.
